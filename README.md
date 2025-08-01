@@ -20,7 +20,9 @@ Explore screenshots and images that demonstrate the functionality.
 Refer to the included build/ folder to inspect the production-ready output.
 
 📸 Screenshots
-(Include images or GIFs here to showcase features like category-based news, loading spinners, responsive layout, etc.)
+
+uploaded on my linkedin
+https://www.linkedin.com/in/anupamsaxenaa/
 
 📂 How to Run Locally
 ```
